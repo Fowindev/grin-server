@@ -21,6 +21,7 @@
     "webserver",
     "back-end"
   ],
+  "repository": "github:Fowindev/grin-server",
   "main": "lib/index.js",
   "scripts": {
     "build": "tsc"
